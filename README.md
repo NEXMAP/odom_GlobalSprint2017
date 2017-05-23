@@ -1,6 +1,6 @@
 # [ Open Data/Open Minds ]
 
-First of all, welcome! And thanks so much for stopping by our project! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. 
+First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. 
 
 This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
 
@@ -17,26 +17,20 @@ This document (the README file) is a hub to give you some information about the 
 ### The problem
 
 * To be a critical consumer of scientific information, people need to be able to understand and critique scientific information in their world. 
-* Women are less likely to promote themselves: they are more likely to suffer from the [imposter syndrome][link_impostersyndrome]
-* It's difficult for conference organisers to know how good an invited speaker will be if they haven't seen them present before
 
-So, if even the very best intentioned conference organisers (who know the powerful and supportive effects that seeing a diverse panel of presenters have for under-represented groups) have mostly seen presentations by (straight, white, cis-gendered) men then they're likely to invite men again. And so the cycle continues.
 
 ### The solution
 
-The STEMM Role Models app will:
+Open Data/Open Minds will:
 
-* Improve visibility for researchers and developers by making a database that is easy to search with customizable keywords
-* Allow anyone to add researchers so the database can grow without relying on women promoting themselves
-* Provide information that is useful for making decisions on key note invitations such as links to blogs, social media, journal articles, youtube clips, a list of previous invited presentations and testimonials.
+* do these great things.
 
-Everyone in the database will have the opportunity to identify themselves as one or more of a selection of different under-represented groups in STEMM. The goal is to ensure that ***conference organisers are able to access a diverse and representative group of the most exciting researchers in their field from around the world***.
 
 ## Who are we?
 
-The founders of the STEMM Role Models app - [Kirstie][link_KirstieJane], [Amy][link_Amy], [Erin][link_Erin] and [Elizabeth][link_Elizabeth] - are friends from their time in graduate school at [UC Berkeley][link_ucberkeley]. There's more information about them (and some pictures) in the [MeetTheTeam](MeetTheTeam.md) file.
+The ODOM team consists of Elisabeth Sylvan, David Cole and Natalie Freed. Elisabeth and David work at the nonprofit Nexmap and are Fellows at Manylabs, an open science hacker space in San Francisco. Natalie is XXX. There's more information about them (and some pictures) in the [MeetTheTeam](MeetTheTeam.md) file.
 
-The development of this app is mentored by the team behind the [Rosalind Franklin Appathon][link_rfappapthon] - a challenge launched in 2015 to find and support the development of new mobile phone apps to empower women in STEMM. The competition is funded by the [Royal Society's Rosalind Franklin award][link_royalsociety_rfaward] which was won in 2014 by the Prof [Rachel McKendry][link_rachelmckendry]. Check out her [awesome lecture][link_rachelmckendry_talk] on _Harnessing the power of mobile phones and big data for global health_.
+ODOM has received support and funding by the [Gordon and Betty Moore Foundation](https://www.moore.org/), the [National Writing Project](https://www.nwp.org/), and several individual funders.
 
 <a href="https://www.mozillascience.org/about">
   <img
@@ -46,7 +40,7 @@ The development of this app is mentored by the team behind the [Rosalind Frankli
   </img>
 </a>
 
-[Kirstie][link_kirstiejane] is an invited member of the inaugural [Open Leaders Cohort][link_openleaderscohort] of the [Mozilla Science Lab][link_mozsci] who brought together open science advocates from around the world to participate in the first [Working Open Workshop][link_mozwow] in Berlin in February 2016. The [training exercises][link_mozwow] (which are free and easy to reuse) focused on how to build and effectively engage communities so they can work together to develop tools and resources for the greater good.
+
 
 ## What do we need?
 
