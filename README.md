@@ -1,6 +1,6 @@
-# [ Project Title ]
+# [ Open Data/Open Minds ]
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+[ Open Data/Open Minds (ODOM) is a program that supports communities to tell local environmental stories through data investigations, science notebooking and civic engagement. They work with publically available datasets on issues of the environment and sustainability, exploring openly available environmental data, collecting data themselves, and analyzing and visualizing using craft and basic scientific techniques.]
 
 [ If you have one, add your logo or an image here ]
 
