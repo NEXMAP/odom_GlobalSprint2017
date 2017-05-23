@@ -28,7 +28,7 @@ Open Data/Open Minds will:
 
 ## Who are we?
 
-The ODOM team consists of [Elisabeth Sylvan](http://lisard.com) and [David Cole](http://cv2.com). Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. The broader team has the expertise needed to implement the project, including designers, curriculum developers, science advisors, and community partners. Interaction and hardware is designed by [Natalie Freed](http://www.nataliefreed.com/). Additional engineering support from Jie Qi and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
+[Elisabeth Sylvan](http://lisard.com) and [David Cole](http://cv2.com) lead the ODOM team. Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. Interaction and hardware is designed by [Natalie Freed](http://www.nataliefreed.com/). Additional engineering support from Jie Qi and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
 
 
 ODOM has received support and funding by the [Gordon and Betty Moore Foundation](https://www.moore.org/), the [National Writing Project](https://www.nwp.org/), and several individual funders.
