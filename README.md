@@ -1,7 +1,7 @@
 # Open Data/Open Minds 
 
-<img src="http://www.lisard.com/wp-content/uploads/2013/03/MakerFairemaerials.jpg" width=400 alt="ODOM Materials"> 
-First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. 
+<p><img src="http://www.lisard.com/wp-content/uploads/2013/03/MakerFairemaerials.jpg" width=400 alt="ODOM Materials"> 
+First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. </p>
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
