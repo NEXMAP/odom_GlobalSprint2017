@@ -18,7 +18,7 @@ The activities are enabled by a set of hardware data collection and visualizatio
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeFrontCoverUSB-174x174.jpg "Science Journal")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/NataliesPrototypeTightCropWebSize-174x174.jpg "Data Collector")
-![alt text](![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypePageTurn-174x174.jpg "Demonstrating Turning Pages in Journal Prototype") 
+![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypePageTurn-174x174.jpg "Demonstrating Turning Pages in Journal Prototype") 
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard-174x174.jpg "Clipboard Prototype Plugged In")
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
 
