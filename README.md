@@ -12,7 +12,8 @@ Open Data/Open Minds (ODOM) is a program that supports communities to tell local
  
 The project is currently composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. 
 
-![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Worksheet")
+![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
+![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
 
 The activities are enabled by a set of hardware data collection and visualization tools, still in protytpe form.
 
