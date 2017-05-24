@@ -7,7 +7,7 @@ First of all, welcome! And thanks so much for stopping by our project!! Open Dat
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
-
+<br clear=all>
 ## What are we doing?
 Open Data/Open Minds (ODOM) is a program that supports communities to tell local stories through data investigations, science notebooking and civic engagement. Participants work with publically available datasets on issues of the environment and sustainability, exploring openly available environmental data, collecting data themselves, and analyzing and visualizing using craft and basic scientific techniques.
  
