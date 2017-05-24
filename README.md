@@ -1,4 +1,4 @@
-# [ Open Data/Open Minds ]
+# Open Data/Open Minds 
 
 First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. 
 
