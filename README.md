@@ -29,11 +29,7 @@ The activities are enabled by a set of hardware data collection and visualizatio
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
 
 ##
-All of our  materials can be found in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing).
-
-You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
-
-Educators and scientists  might want to read through our [Educational Materials folder](https://drive.google.com/open?id=0B8MEcymBo7h8N28xbF9oUHNmTEE).
+All of our  materials can be found in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
 ---I need to finish this section----
 
