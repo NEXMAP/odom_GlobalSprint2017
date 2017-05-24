@@ -2,17 +2,15 @@
 
 First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. 
 
-This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
-
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
-* [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
-* [Understand the jargon](#glossary)
 
 ## What are we doing?
+Open Data/Open Minds (ODOM) is a program that supports communities to tell local stories through data investigations, science notebooking and civic engagement. Participants work with publically available datasets on issues of the environment and sustainability, exploring openly available environmental data, collecting data themselves, and analyzing and visualizing using craft and basic scientific techniques.
+ 
+The project is currently composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. The activities are enabled by a set of hardware 
 
 ### The problem
 
@@ -28,20 +26,9 @@ Open Data/Open Minds will:
 
 ## Who are we?
 
-[Elisabeth Sylvan](http://lisard.com) and [David Cole](http://cv2.com) lead the ODOM team. Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. Interaction and hardware is designed by [Natalie Freed](http://www.nataliefreed.com/). Additional engineering support from Jie Qi and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
-
+The primary ODOM team is [Elisabeth Sylvan](http://lisard.com), [David Cole](http://cv2.com) and [Natalie Freed](http://nataliefreed.com). Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. Natalie is a computational artist and high school teacher who develops the user interaction and hardware. Additional engineering support is by Jie Qi and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
 
 ODOM has received support and funding by the [Gordon and Betty Moore Foundation](https://www.moore.org/), the [National Writing Project](https://www.nwp.org/), and several individual funders.
-
-<a href="https://www.mozillascience.org/about">
-  <img
-    src="http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg"
-    align="right"
-    width=140
-  </img>
-</a>
-
-
 
 ## What do we need?
 
@@ -52,18 +39,19 @@ If you are  interested in science or  concerned about how well citizens understa
 * evaluating and developing the design of our research process
 * evaluating and making suggestions for our planned statistics and graphics generator 
 * suggesting and helping us think through architectural and technical issues
+
+Check out our [issues](ISSUES.md) page for specifics!
+
 ## Get involved
 
-If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+If you think you can help in any of the areas listed above (and we bet you can), check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with [Elisabeth](link_esylvan).
+
+If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Elisabeth][link_esylvan] by email (lisard gmail) or on [twitter](https://twitter.com/lisard).
+
+/ You can also hang out, ask questions and share stories in the [STEMMRoleModels room](https://gitter.im/KirstieJane/STEMMRoleModels) on Gitter.
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-
-## Contact us
-
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Kirstie][link_kirstiejane] by email (lisard gmail) or on [twitter](https://twitter.com/lisard).
-
-/ You can also hang out, ask questions and share stories in the [STEMMRoleModels room](https://gitter.im/KirstieJane/STEMMRoleModels) on Gitter.
 
 ## The materials
 
@@ -73,19 +61,3 @@ And of course, you'll want to know our:
 
 * [Contributors' guidelines](CONTRIBUTING.md)
 * [Roadmap](../../issues/1)
-
-## Glossary
-
-* **STEM**: Science, technology, engineering, mathematics 
-* **README file**: a document that introduces an open project to the public and any potential contributors
-* **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
-* **Roadmap**: a document outlining the schedule of work to be done on a project
-* **Milestone**: an event or state marking a specific stage in development on the project
-* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
-
-
-
-
-## Participation Guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to lisard@gmail.com.
