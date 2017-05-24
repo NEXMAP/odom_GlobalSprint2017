@@ -10,9 +10,18 @@ First of all, welcome! And thanks so much for stopping by our project!! Open Dat
 ## What are we doing?
 Open Data/Open Minds (ODOM) is a program that supports communities to tell local stories through data investigations, science notebooking and civic engagement. Participants work with publically available datasets on issues of the environment and sustainability, exploring openly available environmental data, collecting data themselves, and analyzing and visualizing using craft and basic scientific techniques.
  
-The project is currently composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. The activities are enabled by a set of hardware 
+The project is currently composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. 
 
-http://www.lisard.com/wp-content/uploads/2013/03/NataliesPrototypeTightCropWebSize-174x174.jpg
+![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Worksheet")
+
+The activities are enabled by a set of hardware data collection and visualization tools, still in protytpe form.
+
+![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeFrontCoverUSB-174x174.jpg "Science Journal")
+![alt text](http://www.lisard.com/wp-content/uploads/2013/03/NataliesPrototypeTightCropWebSize-174x174.jpg "Data Collector")
+![alt text](![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypePageTurn-174x174.jpg "Demonstrating Turning Pages in Journal Prototype") 
+![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard.jpg "Clipboard Prototype Plugged In")
+![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
+
 
 ### The problem
 
