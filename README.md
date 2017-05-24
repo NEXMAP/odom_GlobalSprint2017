@@ -10,12 +10,12 @@ First of all, welcome! And thanks so much for stopping by our project!! Open Dat
 * [How can you get involved?](#get-involved)
 
 ### Problem Statement
-How might we use paper, low-cost hardware, and the web to: 1) serve and display ambient live data and 2) support engagement models based on the curation of large datasets and unique polling and citizen science projects, which are organized around scientific and civic-minded teaching and learning prompts for data gathering and creative community-building activities?
+How might we use paper, low-cost hardware, and the web to: 1) serve and display ambient live data and 2) support learning about science and data through curated and personal data collection?
 
 ## What are we doing?
 Open Data/Open Minds (ODOM) supports communities  to tell the stories of their local environmental and civic concerns using science journaling, crafted visualization, and data investigation.
  
-Currently The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations.
+The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations.
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
@@ -31,7 +31,7 @@ The activities are enabled by a set of hardware data collection and visualizatio
 ##
 All of our  materials can be found in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing).
 
-You might want to start with the [Project overview which I still need to create] and the [Technology Overview](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
+You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
 Educators and scientists  might want to read through our [Educational Materials folder](https://drive.google.com/open?id=0B8MEcymBo7h8N28xbF9oUHNmTEE).
 
@@ -39,7 +39,7 @@ Educators and scientists  might want to read through our [Educational Materials 
 
 ## Who are we?
 
-The primary ODOM team is [Elisabeth Sylvan](http://lisard.com), [David Cole](http://cv2.com) and [Natalie Freed](http://nataliefreed.com). Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. Natalie is a computational artist and high school teacher who develops the user interaction and hardware. Additional engineering support is by Jie Qi and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
+The primary ODOM team is [Elisabeth Sylvan](http://lisard.com), [David Cole](http://cv2.com) and [Natalie Freed](http://nataliefreed.com). Elisabeth and David work at the nonprofit [Nexmap](http://www.nexmap.org) and are Fellows at [Manylabs](http://manylabs.org), an open science hacker space in San Francisco. Natalie is a computational artist and high school teacher who develops the user interaction and hardware. Additional engineering support is by [Jie Qi](http://technolojie.com/) and the UK firm [Artists and Engineers](http://artistsandengineers.co.uk) in partnership with industrial designer, Roland Ellis. 
 
 ODOM has received support and funding by the [Gordon and Betty Moore Foundation](https://www.moore.org/), the [National Writing Project](https://www.nwp.org/), and several individual funders.
 
