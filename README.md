@@ -1,17 +1,21 @@
 # Open Data/Open Minds 
 
-<p><img src="http://www.lisard.com/wp-content/uploads/2013/03/MakerFairemaerials.jpg" width=400 alt="ODOM Materials" align=left> 
-First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. </p>
+<p><img src="http://www.lisard.com/wp-content/uploads/2013/03/MakerFairemaerials.jpg" width=350 alt="ODOM Materials" align=left> 
+First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! </p>
 
+* [Problem Statement](#problem-statement)
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
-<br clear=all>
+
+### Problem Statement
+How might we use paper, low-cost hardware, and the web to: 1) serve and display ambient live data and 2) support engagement models based on the curation of large datasets and unique polling and citizen science projects, which are organized around scientific and civic-minded teaching and learning prompts for data gathering and creative community-building activities?
+
 ## What are we doing?
-Open Data/Open Minds (ODOM) is a program that supports communities to tell local stories through data investigations, science notebooking and civic engagement. Participants work with publically available datasets on issues of the environment and sustainability, exploring openly available environmental data, collecting data themselves, and analyzing and visualizing using craft and basic scientific techniques.
+Open Data/Open Minds (ODOM) supports communities  to tell the stories of their local environmental and civic concerns using science journaling, crafted visualization, and data investigation.
  
-The project is currently composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. 
+Currently The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations.
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
@@ -24,18 +28,14 @@ The activities are enabled by a set of hardware data collection and visualizatio
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard-174x174.jpg "Clipboard Prototype Plugged In")
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
 
+##
+All of our  materials can be found in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing).
 
-### The problem
+You might want to start with the [Project overview which I still need to create] and the [Technology Overview](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
-* To be a critical consumer of scientific information, people need to be able to understand and critique scientific information in their world. 
+Educators and scientists  might want to read through our [Educational Materials folder](https://drive.google.com/open?id=0B8MEcymBo7h8N28xbF9oUHNmTEE).
 
-
-### The solution
-
-Open Data/Open Minds will:
-
-* do these great things.
-
+---I need to finish this section----
 
 ## Who are we?
 
