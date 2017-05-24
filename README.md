@@ -40,24 +40,14 @@ If you are  interested in science or  concerned about how well citizens understa
 * evaluating and making suggestions for our planned statistics and graphics generator 
 * suggesting and helping us think through architectural and technical issues
 
-Check out our [issues](ISSUES.md) page for specifics!
+Check out our [issues](ISSUES.md) page for specific requests!
 
 ## Get involved
 
-If you think you can help in any of the areas listed above (and we bet you can), check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with [Elisabeth](link_esylvan).
+If you think you can help in any of the areas listed above, check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with [Elisabeth](link_esylvan).
 
-If you want to report a problem or suggest an enhancement we'd love for you to [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact [Elisabeth][link_esylvan] by email (lisard gmail) or on [twitter](https://twitter.com/lisard).
+If you want to report a problem or suggest an enhancement, you can [open an issue](../../issues) at this github repository or contact [Elisabeth][link_esylvan] by email (lisard gmail) or on [twitter](https://twitter.com/lisard).
 
-/ You can also hang out, ask questions and share stories in the [STEMMRoleModels room](https://gitter.im/KirstieJane/STEMMRoleModels) on Gitter.
+Particularly during the Global Sprint you can hang out, ask questions and share stories in the [STEMMRoleModels room](https://gitter.im/KirstieJane/STEMMRoleModels) on Gitter.
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
-
-
-## The materials
-
-These will go here!
-
-And of course, you'll want to know our:
-
-* [Contributors' guidelines](CONTRIBUTING.md)
-* [Roadmap](../../issues/1)
