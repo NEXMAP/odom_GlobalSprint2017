@@ -52,7 +52,7 @@ First for more detail about the project, check out materials in [this Google Dri
 
 Next join [our Slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap](http://twitter.com/sfnexmap), on Twitter.
 
-Most of all, <b>check out our [issues](ISSUES.md) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally it is either though adding comments to the issue or working on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or just [open a new issue](../../issues).
+Most of all, <b>check out our [issues](ISSUES.md) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally we ask you add comments to the issue or work on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or [open a new issue](../../issues).
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
