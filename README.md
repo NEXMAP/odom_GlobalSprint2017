@@ -4,7 +4,7 @@
 First of all, welcome! And thanks so much for stopping by our project!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! </p>
 
 * [Problem Statement](#problem-statement)
-* [What are we doing? (And why?)](#what-are-we-doing)
+* [What are we doing?] (#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
@@ -15,12 +15,12 @@ How might we use paper, low-cost hardware, and the web to: 1) serve and display 
 ## What are we doing?
 Open Data/Open Minds (ODOM) supports communities  to tell the stories of their local environmental and civic concerns using science journaling, crafted visualization, and data investigation.
  
-The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations.
+The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. Here's what the paper activity pages look like:
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
 
-The activities are enabled by a set of hardware data collection and visualization tools, still in protytpe form.
+The activities are enabled by a set of hardware data collection and visualization tools, still in protytpe form. Here's what they look like:
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeFrontCoverUSB-174x174.jpg "Science Journal")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/NataliesPrototypeTightCropWebSize-174x174.jpg "Data Collector")
@@ -28,10 +28,7 @@ The activities are enabled by a set of hardware data collection and visualizatio
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard-174x174.jpg "Clipboard Prototype Plugged In")
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
 
-##
-All of our  materials can be found in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
-
----I need to finish this section----
+We've run professional developments for teachers with these materials in the spring of 2017 and are refining the materials now so that we can do more of them in the summer. Over the summer we will be developing our prototypes more and doing grant writing to fund the next version of the project.
 
 ## Who are we?
 
@@ -45,18 +42,16 @@ If you are  interested in science or  concerned about how well citizens understa
 
 * reviewing and editing ODOM's curriculum and other educational materials
 * reviewing and writing the program's research evaluation plan and tools
-* evaluating and developing the design of our research process
-* evaluating and making suggestions for our planned statistics and graphics generator 
+* evaluating and making suggestions for the technology and science behind our planned statistics and graphics generator 
 * suggesting and helping us think through architectural and technical issues
 
 Check out our [issues](ISSUES.md) page for specific requests!
 
 ## Get involved
+First for more detail about the project, check out materials in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
-If you think you can help in any of the areas listed above, check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with [Elisabeth](link_esylvan).
+Next join [our slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [twitter](https://twitter.com/lisard).
 
-If you want to report a problem or suggest an enhancement, you can [open an issue](../../issues) at this github repository or contact [Elisabeth][link_esylvan] by email (lisard gmail) or on [twitter](https://twitter.com/lisard).
-
-Particularly during the Global Sprint you can hang out, ask questions and share stories in the [STEMMRoleModels room](https://gitter.im/KirstieJane/STEMMRoleModels) on Gitter.
+If you think you can help, check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or just [open a new issue](../../issues).
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
