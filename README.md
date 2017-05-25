@@ -9,7 +9,7 @@ First of all, welcome! And thanks so much for stopping by our project!! Open Dat
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
 
-### Problem Statement
+## Problem Statement
 How might we use paper, low-cost hardware, and the web to: 1) serve and display ambient live data and 2) support learning about science and data through curated and personal data collection?
 
 ## What are we doing?
