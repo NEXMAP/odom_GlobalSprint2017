@@ -52,7 +52,7 @@ Check out our [issues](ISSUES.md) page for specific requests!
 ## Get involved
 First for more detail about the project, check out materials in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
-Next join [our slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap](http://twitter.com/sfnexmap), on Twitter.
+Next join [our slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap](http://twitter.com/sfnexmap), on Twitter.
 
 If you think you can help, check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or just [open a new issue](../../issues).
 
