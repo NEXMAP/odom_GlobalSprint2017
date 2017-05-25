@@ -28,7 +28,7 @@ The activities are enabled by a set of hardware data collection and visualizatio
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard-174x174.jpg "Clipboard Prototype Plugged In")
 ![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
 
-We've run professional developments for teachers with these materials in the spring of 2017 and are refining the materials now so that we can do more of them in the summer. Over the summer we will be developing our prototypes more and doing grant writing to fund the next version of the project.
+We've run professional developments for teachers with these materials in the spring of 2017 and are refining the materials now so that we can do more of them in the summer. 
 
 ## Who are we?
 
@@ -38,7 +38,9 @@ ODOM has received support and funding by the [Gordon and Betty Moore Foundation]
 
 ## What do we need?
 
-If you are  interested in science or  concerned about how well citizens understand scientific information, we need your help! More specifically we need data lovers, statistics gurus, learners, educators, evaluation researchers, to help with the following 
+Over the summer we will be developing our prototypes more and doing grant writing to fund the next version of the project. And we need your help getting the technology, curriculum and research in better shape!
+
+We need data lovers, statistics gurus, learners, educators, evaluation researchers, to help with the following 
 
 * reviewing and editing ODOM's curriculum and other educational materials
 * reviewing and writing the program's research evaluation plan and tools
@@ -50,8 +52,10 @@ Check out our [issues](ISSUES.md) page for specific requests!
 ## Get involved
 First for more detail about the project, check out materials in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project overview which I still need to create] and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
-Next join [our slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [twitter](https://twitter.com/lisard).
+Next join [our slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap](http://twitter.com/sfnexmap), on Twitter.
 
 If you think you can help, check out the particular requests on our [issues](ISSUES.md) page. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or just [open a new issue](../../issues).
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+Thank you! Thank you!
