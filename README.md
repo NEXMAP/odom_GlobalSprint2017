@@ -50,7 +50,7 @@ We need data lovers, statistics gurus, learners, educators, evaluation researche
 ## Get involved
 First for more detail about the project, check out materials in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project Overview](https://docs.google.com/document/d/12yEp6Rg0VhgX0aM_Hl7zGy6DpqGKIa7Nn9O9P0VgFR0/edit?usp=sharing) and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
-Next join [our Slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap](http://twitter.com/sfnexmap), on Twitter and joining [our 21st Century Notebooking Google+ group](https://plus.google.com/u/0/communities/106297899247135466221?cfem=1).
+Next join [our Slack channel](http://opendataopenminds.slack.com) by asking Elisabeth  either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard). Consider following [our nonprofit, Nexmap, on Twitter](http://twitter.com/sfnexmap) and joining [our 21st Century Notebooking Google+ group](https://plus.google.com/u/0/communities/106297899247135466221?cfem=1).
 
 Most of all, <b>check out our [issues](ISSUES.md) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally we ask you add comments to the issue or work on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or [open a new issue](../../issues).
 
