@@ -26,11 +26,11 @@ Mozilla-based activities should be inclusive and should support such diversity.
 
 ## Raising Issues at #mozsprint
 
-If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Zannah Marsh.
+If you believe you‘re experiencing practices at #mozsprint which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Elisabeth Sylvan (lisard gmail).
 
 #mozsprint organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the event.
 
-Email: askopenleadership@mozillafoundation.org 
+Email: lisard gmail 
 
 ## Working in the Open
 
